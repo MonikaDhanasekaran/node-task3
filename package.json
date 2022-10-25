@@ -1,0 +1,23 @@
+{
+  "name": "node-task3",
+  "version": "1.0.0",
+  "description": "Node Task 3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "start": "node index.js",
+    "type": "git",
+    "url": "https://github.com/MonikaDhanasekaran"
+  },
+  "author": "Monika Dhanasekaran",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^4.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
